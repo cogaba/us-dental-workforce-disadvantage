@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the software and the associated article."
+title: "Analysis code: Area-level social disadvantage and geographic access to the dental workforce in the United States"
+abstract: >
+  R code reproducing a national cross-sectional analysis of dental workforce
+  availability across 26,285 U.S. ZIP Code Tabulation Areas, including
+  catchment-based supply measures, dental and specialist desert outcomes,
+  comparison across three area-level disadvantage indices, and exploratory
+  state Medicaid policy correlations.
+type: software
+authors:
+  - family-names: Gaba
+    given-names: Collins
+    affiliation: "Boston University School of Social Work"
+  - family-names: Asiedu
+    given-names: Anna-Lena
+    affiliation: "University of California, San Francisco, School of Dentistry"
+license: MIT
+version: 1.0.0
+date-released: "2026-08-17"
+keywords:
+  - dental workforce
+  - access to care
+  - area deprivation index
+  - dental deserts
+  - health workforce distribution
